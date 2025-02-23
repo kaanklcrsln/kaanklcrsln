@@ -4,7 +4,6 @@ I'm a 21-year-old engineering student based in Turkey, and I'm passionate about 
 
 - Check out my [linkedin](https://www.linkedin.com/in/kaanklcrsln/) to learn more about me.
 - Stay updated with my editing journey on [Instagram](https://www.instagram.com/kaanklcrsln)
-- Check out my editing tutorial videos on [YouTube](https://www.youtube.com/@jager5179).
 
 ## 🔭 Current Endeavors 
 
