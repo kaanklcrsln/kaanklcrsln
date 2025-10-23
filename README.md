@@ -6,3 +6,5 @@
 - Stay updated with my travel/photography journey on [Instagram](https://www.instagram.com/kaanklcrsln)
 
 
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kaanklcrsln&theme=dark&show_icons=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanklcrsln&layout=compact&theme=dark)
