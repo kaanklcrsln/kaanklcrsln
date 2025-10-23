@@ -7,4 +7,5 @@
 
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kaanklcrsln&theme=dark&show_icons=true&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanklcrsln&layout=compact&theme=dark&cache_buster=abc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanklcrsln&layout=donut&bg_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
