@@ -1,9 +1,3 @@
-### Hey, I'm Kaan👋 
+## Hey, I'm Kaan 
 
-- Geomatic Engineering student at Hacettepe University.
-
-- Check out my personal ([Blog](https://kaanklcrsln.github.io/)) to learn more about me.
-- Stay updated with my travel/photography journey on [Instagram](https://www.instagram.com/kaanklcrsln)
-
-
-
+- a geogeek guy who creates in order to be happy.
