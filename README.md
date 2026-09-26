@@ -1,7 +1,7 @@
 
 # Hi there, I'm Kaan 
 
-<img width="1200" height="573" alt="naruto-og-naruto" src="https://github.com/user-attachments/assets/75f2b167-3a0c-4fe4-83fc-1a92e1e47cb4" />
+<img width="600" height="202" alt="naruto-og-naruto" src="https://github.com/user-attachments/assets/87eb387c-894a-42e2-b190-0fab98a67f75" />
 
 
 
