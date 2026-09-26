@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kaanklcrsln)
 ![visitors](https://komarev.com/ghpvc/?username=kaanklcrsln&label=visitors&color=blue&style=flat)
 
-I'm Kaan, a **geogeek** born in 2003 and a recent **Geomatics Engineering** graduate from **Hacettepe University**. During my studies I worked as a **contributor, consultant, and freelancer** on many projects, and I've been passionate about **design** since I was 15, teaching Adobe tools to **100+ young creators** and serving as **Creative Lead at CypherConnect**. Today I'm a **Geospatial Developer**, building GIS solutions at the intersection of **technology, design, and spatial intelligence**, with a long-term focus on **Geospatial Intelligence** and **Remote Sensing**. My goal is simple: create meaningful work and help as many people as I can.
+A **geogeek** born in 2003 and a recent **Geomatics Engineering** graduate from **Hacettepe University**. During my studies I worked as a **contributor, consultant, and freelancer** on many projects, and I've been passionate about **design** since I was 15, teaching Adobe tools to **100+ young creators** and serving as **Creative Lead at CypherConnect**. Today I'm a **Geospatial Developer**, building GIS solutions at the intersection of **technology, design, and spatial intelligence**, with a long-term focus on **Geospatial Intelligence** and **Remote Sensing**. My goal is simple: create meaningful work and help as many people as I can.
 
 ---
 
