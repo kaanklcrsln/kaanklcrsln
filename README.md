@@ -1,8 +1,7 @@
 # Hi there, I'm Kaan 👋
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/imgWz5-L7MYAAAAd/naruto-og-naruto.gif" alt="banner gif" width="100%" />
-</p>
+<img width="498" height="373" alt="naruto-og-naruto" src="https://github.com/user-attachments/assets/43423587-7cb0-437b-8d2a-90f412707897" />
+
 
 [![GitHub followers](https://img.shields.io/github/followers/kaanklcrsln?label=Followers&style=social)](https://github.com/kaanklcrsln)
 [![X](https://img.shields.io/badge/Follow-@jagerhub-000000?logo=x&logoColor=white)](https://x.com/jagerhub)
