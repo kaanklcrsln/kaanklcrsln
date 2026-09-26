@@ -1,7 +1,8 @@
 # Hi there, I'm Kaan 👋
 
-<img width="498" height="373" alt="naruto-og-naruto" src="https://github.com/user-attachments/assets/43423587-7cb0-437b-8d2a-90f412707897" />
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/imgWz5-L7MYAAAAd/naruto-og-naruto.gif" alt="banner gif" width="1200" />
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/kaanklcrsln?label=Followers&style=social)](https://github.com/kaanklcrsln)
 [![X](https://img.shields.io/badge/Follow-@jagerhub-000000?logo=x&logoColor=white)](https://x.com/jagerhub)
@@ -10,13 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kaanklcrsln)
 ![visitors](https://komarev.com/ghpvc/?username=kaanklcrsln&label=visitors&color=blue&style=flat)
 
-I'm Kaan, a **geogeek** born in 2003. Although I'm a recent graduate from **Hacettepe University's Geomatics Engineering** program, I made it a priority to build a university experience that extended far beyond the classroom. Throughout my studies, I volunteered as a **contributor and consultant** on numerous projects, always looking for opportunities to help teams solve problems. In the areas where I developed strong expertise, I also worked as a **freelancer**, allowing me to gain professional experience while achieving financial independence during my student years.
-
-Outside of engineering, I've had a strong passion for **design** since I was 15. **Graphic design, photography, photo and video editing, and web design** became more than hobbies — they became disciplines I continuously invested in. After teaching editorial design and Adobe software to **more than 100 young creators**, I went on to serve as **Creative Lead at CypherConnect** and collaborated with multiple university communities, leading creative initiatives and branding projects.
-
-Today, I combine that creative background with my work as a **Geospatial Developer**, building GIS solutions while exploring the intersection of **technology, design, and spatial intelligence**. My long-term interests lie in **Geospatial Intelligence** and **Remote Sensing**, where I continue to deepen both my theoretical understanding and practical expertise.
-
-I don't know exactly where my career will take me, but one goal has remained constant: to create meaningful work and help as many people as I can along the way.
+I'm Kaan, a **geogeek** born in 2003 and a recent **Geomatics Engineering** graduate from **Hacettepe University**. During my studies I worked as a **contributor, consultant, and freelancer** on many projects, and I've been passionate about **design** since I was 15, teaching Adobe tools to **100+ young creators** and serving as **Creative Lead at CypherConnect**. Today I'm a **Geospatial Developer**, building GIS solutions at the intersection of **technology, design, and spatial intelligence**, with a long-term focus on **Geospatial Intelligence** and **Remote Sensing**. My goal is simple: create meaningful work and help as many people as I can.
 
 ---
 
