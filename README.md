@@ -1,7 +1,8 @@
+
 # Hi there, I'm Kaan 👋
 
+<img width="1200" height="373" alt="naruto-og-naruto" src="https://github.com/user-attachments/assets/75f2b167-3a0c-4fe4-83fc-1a92e1e47cb4" />
 
-<img src="https://media1.tenor.com/m/imgWz5-L7MYAAAAd/naruto-og-naruto.gif" alt="banner gif" width="1200" />
 
 
 [![GitHub followers](https://img.shields.io/github/followers/kaanklcrsln?label=Followers&style=social)](https://github.com/kaanklcrsln)
