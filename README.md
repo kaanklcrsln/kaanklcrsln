@@ -27,6 +27,7 @@ A **geogeek** born in 2003 and a recent **Geomatics Engineering** graduate from 
 - [OmniMonitor](https://github.com/kaanklcrsln/omni-monitor)
 - [DatumX](https://github.com/kaanklcrsln/DatumX)
 - [DuolingoGIS](https://github.com/kaanklcrsln/duolingoGIS)
+- [Kalometre](https://github.com/kaanklcrsln/Kalometre)
 
 ## QGIS Plugins
 
