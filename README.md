@@ -29,6 +29,7 @@ A **geogeek** born in 2003 and a recent **Geomatics Engineering** graduate from 
 - [DuolingoGIS](https://github.com/kaanklcrsln/duolingoGIS)
 - [Kalometre](https://github.com/kaanklcrsln/Kalometre)
 - [Raven](https://github.com/kaanklcrsln/raven)
+- [Solid](https://github.com/kaanklcrsln/Solid)
 
 ## QGIS Plugins
 
